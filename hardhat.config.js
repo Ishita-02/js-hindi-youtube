@@ -5,7 +5,7 @@ module.exports = {
   solidity: "0.8.24",
   // networks: {
   //   sepolia: {
-  //     url: `https://eth-sepolia.alchemyapi.io/v2/20gKKYO3bnUx5QPEpz80cOFLtmSTxO2L`, // Replace with your Alchemy API key
+  //     url: `https://eth-sepolia.alchemyapi.io/v2/, // Replace with your Alchemy API key
   //     accounts: [`0x${process.env.PRIVATE_KEY}`], // Replace with your wallet private key
   //   }
   // }
